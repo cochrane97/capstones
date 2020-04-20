@@ -1,5 +1,3 @@
-# capstones
-
 Springboard data analytics projects
 
 Context: Major League Baseball (MLB)  teams generate between 30-45% of their revenues from ticket sales, concessions, and parking1. Unfortunately, there are some ballclubs that almost always have below-average attendance figures. It is assumed that the more a team wins, the more fans will come to the game. However, there have been teams that have successful seasons and still fail to bring in average-to-above-average sized crowds. Is it possible that some baseball franchises are operating in geographic markets that make it very hard to have normal attendance figures? If so, which teams would benefit the most from moving to another city and which city would maximize their attendance? 
